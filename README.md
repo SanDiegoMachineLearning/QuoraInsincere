@@ -11,7 +11,7 @@ Blog explaining why we need more than accuracy: https://machinelearningmastery.c
 Detailed wiki page:https://en.wikipedia.org/wiki/F1_score
 Scikit-learn documentation page: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html
 
-## Word Represntation
+## Word Representation
 One of the most important aspects of this challenge is how we represent the text as numbers. Obviously we can't do any mathematical operations directly on the question "What is Taylor Swift's phone number?" so we need to find some way to represent what a word means numerically. We have lots of options for this so here is a list of resources to explore and evaluate:
 
 Blog explaining count vectorizer, tfidf vectorizer, hashing vectorizer using scikit-learn: https://machinelearningmastery.com/prepare-text-data-machine-learning-scikit-learn/
